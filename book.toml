@@ -10,7 +10,7 @@ curly-quotes = true
 mathjax-support = true
 copy-fonts = true 
 no-section-label = false
-additional-css = ["src/theme/css/custom.css"]
+additional-css = ["src/custom.css"]
 
 [output.html.fold]
 enable = false
