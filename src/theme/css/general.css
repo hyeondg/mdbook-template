@@ -1,7 +1,7 @@
 /* Base styles and content styles */
 
 @import 'variables.css';
-@import 'custom.css';
+@import 'src/theme/css/custom.css';
 
 :root {
     /* Browser default font-size is 16px, this way 1 rem = 10px */
