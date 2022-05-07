@@ -1,0 +1,20 @@
+[book]
+title = "PSBook"
+authors = ["hyeondg"]
+description = "The example book covers examples."
+
+[output.html]
+theme = "src/theme"
+preferred-dark-theme = "navy"
+curly-quotes = true
+mathjax-support = true
+copy-fonts = true 
+no-section-label = false
+additional-css = ["src/theme/css/custom.css"]
+
+[output.html.fold]
+enable = false
+level = 0
+
+[output.html.print]
+enable = true
