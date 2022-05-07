@@ -2,48 +2,48 @@
 
 @font-face {
     font-family: "Roboto-Mono";
-    src: url(../fonts/Roboto-Mono-Regular.woff) format('woff');
+    src: url(/fonts/Roboto-Mono-Regular.woff) format('woff');
     letter-spacing: normal;
 }
 
 @font-face {
     font-family: "Calibri";
-    src: url(../fonts/Calibri.woff) format('woff');
+    src: url(/fonts/Calibri.woff) format('woff');
     letter-spacing: normal;
     font-weight: 400;
 }
 
 @font-face {
     font-family: "Calibri";
-    src: url(../fonts/Calibri-Bold.woff) format('woff');
+    src: url(/fonts/Calibri-Bold.woff) format('woff');
     letter-spacing: normal;
     font-weight: 600;
 }
 
 @font-face {
     font-family: "KoPubDotum";
-    src: url(../fonts/KoPubDotumMedium.woff2) format('woff2');
+    src: url(/fonts/KoPubDotumMedium.woff2) format('woff2');
     letter-spacing: normal;
     font-weight: 400;
 }
 
 @font-face {
     font-family: "KoPubDotum";
-    src: url(../fonts/KoPubDotumBold.woff2) format('woff2');
+    src: url(/fonts/KoPubDotumBold.woff2) format('woff2');
     letter-spacing: normal;
     font-weight: 600;
 }
 
 @font-face {
     font-family: "KoPubBatang";
-    src: url(../fonts/KoPubWorld-Batang-Bold.woff2) format('woff2');
+    src: url(/fonts/KoPubWorld-Batang-Bold.woff2) format('woff2');
     letter-spacing: normal;
     font-weight: 600;
 }
 
 @font-face {
     font-family: "KoPubBatang";
-    src: url(../fonts/KoPubWorld-Batang-Medium.woff2) format('woff2');
+    src: url(/fonts/KoPubWorld-Batang-Medium.woff2) format('woff2');
     letter-spacing: normal;
     font-weight: 400;
 }
