@@ -33,3 +33,17 @@
     letter-spacing: normal;
     font-weight: 600;
 }
+
+@font-face {
+    font-family: "KoPubBatang";
+    src: url(../fonts/KoPubWorld-Batang-Bold.woff2) format('woff2');
+    letter-spacing: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "KoPubBatang";
+    src: url(../fonts/KoPubWorld-Batang-Medium.woff2) format('woff2');
+    letter-spacing: normal;
+    font-weight: 400;
+}
