@@ -1,7 +1,7 @@
 [book]
-title = "문제해결을 위한 알고리즘 입문"
+title = "mdbook-template"
 authors = ["hyeondg"]
-description = "문제해결을 위한 알고리즘 입문"
+description = "A template for MDBook"
 
 [output.html]
 theme = "src/theme"
