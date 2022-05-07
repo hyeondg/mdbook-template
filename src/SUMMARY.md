@@ -1,3 +1,3 @@
 # Summary
 
-- [Introduction](./intro.md)
+- [개요](./intro.md)

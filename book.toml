@@ -1,7 +1,7 @@
 [book]
 title = "mdbook-template"
 authors = ["hyeondg"]
-description = "A template for MDBook"
+description = "mdbook-template"
 
 [output.html]
 theme = "src/theme"
